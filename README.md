@@ -1,1 +1,1 @@
-# BootDev-K8sCourse
+# Boot.Dev Kubernetes Course Repo
